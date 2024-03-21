@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C, C++**
 
-- 👨‍💻 All of my projects are available at [Oiha.fr](Oiha.fr)
+- 👨‍💻 All of my projects are available at oiha.fr
 
 - 📫 How to reach me **mail: oiha.cenes@gmail.com / discord: Oiha_dev**
 
