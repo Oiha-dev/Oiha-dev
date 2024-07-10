@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oiha (Gauthier Cenes)</h1>
 <h3 align="center">A french guy that use too much the computer</h3>
 
-- 🔭 I’m currently working on [PngBrowser](https://github.com/Oiha-dev/PngBrowser)
+- 🔭 I’m currently working on [Lexikon](https://github.com/Oiha-dev/Lexikon)
 
 - 🌱 I’m currently learning **C, C++**
 
