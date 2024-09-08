@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Lexikon](https://github.com/Oiha-dev/Lexikon)
 
-- 🌱 I’m currently learning **C, C++**
+- 🌱 I’m currently learning **C, C++, Go**
 
 - 👨‍💻 All of my projects are available at oiha.fr
 
