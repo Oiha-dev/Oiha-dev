@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oiha (Gauthier Cenes)</h1>
 <h3 align="center">A french guy that use too much the computer</h3>
 
-- 🔭 I’m currently working on [Lexikon](https://github.com/Oiha-dev/Lexikon)
+- 🔭 I’m currently working on my [raytracer](https://github.com/Oiha-dev/RayTracer_CPP)
 
 - 🌱 I’m currently learning **C, C++, Go**
-
-- 👨‍💻 All of my projects are available at oiha.fr
 
 - 📫 How to reach me **mail: oiha.cenes@gmail.com / discord: Oiha_dev**
 
